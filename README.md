@@ -8,6 +8,10 @@ This repository contains all the tasks, code, and documentation completed during
 
 ---
 
+![BCG Data Science Job Simulation](https://github.com/user-attachments/assets/33f51d13-4e3c-409c-ab73-5518ff3319dd)
+
+
+
 ### Table of Contents:
 1. **Introduction**
    - Overview of the BCG Data Science Simulation

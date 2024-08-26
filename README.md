@@ -47,7 +47,6 @@ This repository contains all the tasks, code, and documentation completed during
 ### Files and Folders:
 - **/notebooks/**: Jupyter Notebooks for each task
 - **/data/**: Raw and Processed Data Files
-- **/scripts/**: Python Scripts for Data Processing and Modeling
 - **/reports/**: Final Report and PowerPoint Presentation
 - **/images/**: Visualizations and Graphs
 - **README.md**: Detailed Explanation of the Project

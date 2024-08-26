@@ -1,0 +1,71 @@
+Subject: Data Requirements and Proposed Approach for Investigating PowerCo's Churn Issue
+
+Dear Associate Director,
+
+I hope this email finds you well. Following our meeting regarding PowerCo’s challenge with customer churn, Estelle and I have formulated a plan to tackle the issue using our data science methodology. Below, I’ve outlined our approach and the data we’ll need to proceed.
+
+Problem Framing
+
+
+PowerCo is facing significant customer churn, potentially due to increased competition in the energy market. To address this issue, we will utilize our 5-step data science methodology:
+
+Business Understanding & Problem Framing:
+
+Objective: To determine the key factors influencing customer churn at PowerCo.
+Hypothesis: Customers may be leaving due to factors such as price sensitivity, availability of clean energy, customer service experience, and geographic considerations.
+
+
+Data Collection:
+
+Required Data:
+Historical customer data (5+ years) including demographic information, service usage, and churn status.
+Pricing plans and changes over the same period.
+Customer service interactions and satisfaction scores.
+Competitor pricing and service offerings in the same geographic regions.
+Data on the type of energy provided (e.g., renewable vs. non-renewable).
+Request: We will need PowerCo to provide detailed customer records, pricing histories, customer service logs, and competitor data where possible.
+
+
+Exploratory Data Analysis & Data Cleaning:
+
+Objective: Clean and explore the data to identify patterns and outliers that may influence churn.
+Techniques:
+Data cleaning: Handle missing values, standardize data formats.
+Exploratory analysis: Perform descriptive statistics, correlation analysis, and data visualization (e.g., churn rate by price tier, service satisfaction).
+
+
+Feature Engineering:
+
+Objective: Identify and create features that could better explain churn behavior.
+Potential Features:
+Price sensitivity index (based on historical pricing and churn data).
+Customer loyalty score (based on length of service and satisfaction).
+Environmental preference score (based on interest in clean energy options).
+
+
+Modeling & Evaluation:
+
+Objective: Build and evaluate models to predict customer churn.
+Techniques:
+Logistic regression, decision trees, and random forests to predict churn likelihood.
+Model evaluation using accuracy, precision, recall, and ROC-AUC.
+
+
+Insights & Recommendations:
+
+Objective: Provide actionable insights to PowerCo on how to reduce churn.
+Deliverables: A report summarizing the key drivers of churn, potential interventions, and predictive modeling results.
+
+
+Conclusion
+
+
+We believe that the combination of these data points and analysis techniques will allow us to uncover the underlying reasons for PowerCo's churn and help in formulating strategies to reduce it.
+
+Please let us know if you require any further details or adjustments to our approach. We look forward to your feedback.
+
+Best regards,
+Muhammad Adil Naeem
+Data Science Intern
+BCG GAMMA
+

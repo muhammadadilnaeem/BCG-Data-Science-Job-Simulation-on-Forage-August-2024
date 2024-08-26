@@ -35,12 +35,8 @@ This repository contains all the tasks, code, and documentation completed during
    - Strategic Recommendations for PowerCo
 
 7. **Task 6: Final Report**
-   - PowerPoint Presentation (Link to the File)
+   - PowerPoint Presentation 
    - Summary of Findings and Recommendations
-
-8. **Conclusion**
-   - Reflections on the Simulation Experience
-   - Future Directions and Learning
 
 ---
 

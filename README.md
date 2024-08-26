@@ -72,6 +72,6 @@ This repository contains all the tasks, code, and documentation completed during
 ---
 
 ### License:
-This repository is under .
+This repository is under GNU GENERAL PUBLIC LICENSE Version 3.
 
 ---
